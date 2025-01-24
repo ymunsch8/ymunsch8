@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 📈 Statistiques GitHub
+![Statistiques de Yohann](https://github-readme-stats.vercel.app/api?username=ymunsch8&show_icons=true&theme=radical)
+ 
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ymunsch8&layout=compact&theme=radical)
 <!--
 **ymunsch8/ymunsch8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
