@@ -38,14 +38,6 @@
 
     Managing cloud backends with Firebase and creating collaborative designs with Figma.
 
-### Web :
-
-|              **Symfony**              |
-|:-------------------------------------:|
-|  ![SymfonyIcon](./Icons/Symfony.png)  |
-
-    Developing robust and scalable web backends using the Symfony framework.
-
 ## GitHub Statistics
 
 ![My Statistics](https://github-readme-stats.vercel.app/api?username=ymunsch8&show_icons=true&count_private=true&hide=issues&title_color=F0F6FC&&text_color=F0F6FC&icon_color=9198A1&bg_color=0D1116&border_color=3D444D&card_width=500)
