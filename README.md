@@ -38,12 +38,6 @@
 
     Managing cloud backends with Firebase and creating collaborative designs with Figma.
 
-## GitHub Statistics
-
-![My Statistics](https://github-readme-stats.vercel.app/api?username=ymunsch8&show_icons=true&count_private=true&hide=issues&title_color=F0F6FC&&text_color=F0F6FC&icon_color=9198A1&bg_color=0D1116&border_color=3D444D&card_width=500)
- 
-![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ymunsch8&langs_count=8&title_color=F0F6FC&&text_color=F0F6FC&icon_color=9198A1&bg_color=0D1116&border_color=3D444D&card_width=500)
-
 <!--
 **ymunsch8/ymunsch8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
