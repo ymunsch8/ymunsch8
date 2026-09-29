@@ -29,20 +29,6 @@ Express · Java · Symfony
 
 Android · Flutter
 
-| **Flutter** | **Java** |
-|:-----------:|:--------:|
-| ![Flutter](./Icons/Flutter.png) | ![Java](./Icons/Java.png) |
-
-### Frontend
-
-CSS · HTML
-
-### Bases de données
-
-MongoDB · MySQL
-
-### DevOps & infra
-
 Apache · ArgoCD · CI/CD · Docker · Firebase · Kubernetes · Linux · Nginx
 
 | **GitHub** | **Docker** | **Kubernetes** | **Firebase** |
