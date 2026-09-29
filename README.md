@@ -62,6 +62,7 @@ Architecte logiciel et développeur d'applications, titulaire du titre RNCP de n
 
 ## Disponibilité
 
-[![Disponibilité](https://img.shields.io/badge/Recherche-D%C3%A9veloppeur%20confirm%C3%A9-97473A?style=for-the-badge&logo=briefcase&logoColor=FFFDF8)](https://github.com/ymunsch8/CV)
+[![Recherche](https://img.shields.io/badge/Recherche-F4ECD9?style=for-the-badge&logo=briefcase&logoColor=423A28)](https://github.com/ymunsch8/CV)
+[![Développeur confirmé](https://img.shields.io/badge/D%C3%A9veloppeur%20confirm%C3%A9-57764F?style=for-the-badge&logoColor=FFFDF8)](https://github.com/ymunsch8/CV)
 
 Je recherche un poste de développeur confirmé en développement d'applications.
