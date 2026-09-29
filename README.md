@@ -38,9 +38,6 @@
 
     Managing cloud backends with Firebase and creating collaborative designs with Figma.
 
-<<<<<<< HEAD
-Apache · ArgoCD · CI/CD · Docker · Firebase · Kubernetes · Linux · Nginx
-=======
 ### Web :
 
 |              **Symfony**              |
@@ -59,7 +56,6 @@ Apache · ArgoCD · CI/CD · Docker · Firebase · Kubernetes · Linux · Nginx
 **ymunsch8/ymunsch8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
->>>>>>> parent of 8980957 (Aligner le README profil sur le CV avec liens vers le site et le PDF.)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
